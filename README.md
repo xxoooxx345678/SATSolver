@@ -38,4 +38,6 @@ $ make clean
 ## TODO
 
 - [ ] Verifier
+- [ ] Better Parallelization
+- [ ] Reduce Memory Usage
 
